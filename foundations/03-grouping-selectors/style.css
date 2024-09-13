@@ -1,0 +1,15 @@
+/*- **The first element**: a black background and white text
+- **The second element**: a yellow background
+- **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` 
+and `Times  */
+.but1{
+    background-color: black;
+    color: white;
+}
+.but2{
+    background-color: yellow;
+}
+.but1,.but2{
+    font-size: 28px;
+    font-family: "helvetica", "Times";
+}
